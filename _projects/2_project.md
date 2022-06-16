@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Border
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/bordercontrol.jpg
 importance: 2
 category: work
 ---
