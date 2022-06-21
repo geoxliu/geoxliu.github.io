@@ -1,25 +1,18 @@
 ---
-layout: page
-title: project 3
+layout: post
+title: Border
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/bordercontrol.jpg
 importance: 3
-category: work
+category: China and the World
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Border control under the COVID-19 pandemic
+> **Liu, X.**, Bennett, M. M. 2020. Viral borders: COVID-19’s effects on securitization, surveillance, and identity in mainland China and Hong Kong. Dialogues in Human Geography, 10(2), 158-163.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,6 +37,10 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
+
+## Border town 
+
+
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
@@ -61,6 +58,8 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+
+## Cross-border mobilities 
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).

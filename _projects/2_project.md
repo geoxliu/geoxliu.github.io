@@ -1,11 +1,24 @@
 ---
-layout: page
-title: Border
+layout: post
+title: Water
 description: a project with a background image
-img: assets/img/bordercontrol.jpg
+img: assets/img/Rivers.jpg
 importance: 2
-category: work
+category: Sustainability
 ---
+
+
+
+# Transboundary rivers
+
+> Wang, R. Y., **Liu, X.***, Zhang, W. China's water governmentality and the shaping of hydrosocial territories: A case of the Lancang–Mekong cooperation mechanism. The China Quarterly (in press)
+> Wang, R. Y., Zhang, W., **Liu, X.**, The geopolitical analysis of international river governance: A conceptual framework of “hydrosocial territories”. Human Geography(人文地理), 2022,(02), 41-49+102.(in Chinese)
+> **Liu, X.**, Wang, R. Y., Zhang, W., Ge, Y. 2021. Rescaling inter-jurisdictional water governance: A case study of the Dongjiang river. World Regional Studies(世界地理研究), 30(02), 297-307. 
+> **Liu, X.**, Souter, N. J., Wang, R. Y., & Vollmer, D. 2019. Aligning the Freshwater Health Index indicator system against the transboundary water governance framework of Southeast Asia’s Sesan, Srepok, and Sekong river basin. Water, 11(11), 2307.
+
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -34,6 +47,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

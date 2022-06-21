@@ -4,16 +4,9 @@ title: Research
 permalink: /research/
 description: A growing collection of cool projects.
 nav: true
-display_categories: [Sustainability, China and its periphery]
+display_categories: [Sustainability, China and the World]
 horizontal: false
 ---
-
-### Research projects
-* 2020-now    Co-PI, “Ecogovernmentality, Ecocivilization, and China's Green Belt and Road Initiative” (HKU Seed fund for basic research)
-* 2018-2019  Participant, “The Geopolitics of International Rivers: A Case Study of Lancang-Mekong Transboundary Water Governance” (funded by national science foundation of China)
-* 2017-2019  Participant, “Inter-Basin Cooperation and Symbiotic Governance System of the ‘Golden Quadrilateral’ of China-Myanmar-Thailand-Laos” (funded by major research plan of national social science foundation of China)
-* 2016-2018   Participant, “Transboundary Water Governance under Lancang-Mekong Cooperation: A Perspective of International NGOs” (funded by Ministry of Education)
-* 2013-2015   PI, “Representational Space in Beijing: A Study Based on Local Literature” (funded by Beijing college students research action Plan, awarded excellent project)
 
 
 <!-- pages/projects.md -->
@@ -63,3 +56,12 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+### Research projects
+* 2020-now    Co-PI, “Ecogovernmentality, Ecocivilization, and China's Green Belt and Road Initiative” (funded by HKU seed fund for basic research)
+* 2018-2019  Participant, “The Geopolitics of International Rivers: A Case Study of Lancang-Mekong Transboundary Water Governance” (funded by national science foundation of China)
+* 2017-2019  Participant, “Inter-Basin Cooperation and Symbiotic Governance System of the ‘Golden Quadrilateral’ of China-Myanmar-Thailand-Laos” (funded by major research plan of national social science foundation of China)
+* 2016-2018   Participant, “Transboundary Water Governance under Lancang-Mekong Cooperation: A Perspective of International NGOs” (funded by Ministry of Education)
+* 2013-2015   PI, “Representational Space in Beijing: A Study Based on Local Literature” (funded by Beijing college students research action Plan, awarded excellent project)
+

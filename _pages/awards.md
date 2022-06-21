@@ -8,6 +8,7 @@ nav: true
 
 
 * 2022  Reach Out Award, Hong Kong SAR Government Scholarship Fund (10,000 HKD)
+* 2022  Best Graduate Student Paper, AAG Asian Geography Specialty Group (250 USD)
 * 2022  Alexander B. Murphy Dissertation Enhancement Award, AAG Political Geography Specialty Group (1,000 USD)
 * 2022  Travel Award, AAG Political Geography Specialty Group
 
