@@ -1,0 +1,27 @@
+---
+layout: page
+title: Non-State Actors
+description: another without an image
+img: assets/img/NGO_Wordcloud.jpg
+importance: 4
+category: China and the World
+---
+
+## Background
+
+
+> **Liu, X.**, Bennett, M.M. Going out and going green: Chinese NGOs within Green BRI knowledge production
+
+incoming
+
+> **Liu, X.**, Wang, R. Y., Hu, Z., Ge, Y., Huang Y. 2022. How do non-governmental organizations influence China’s investment projects in Cambodia? A geosocial analysis. Human Geography(人文地理), (02), 57-66+157. [Link](http://www.xml-data.org/RWDL/html/20220208.htm)
+
+This paper investigate the roles of NGOs in Cambodia in the suspension of Chay Areng hydropower dam project through a geosocial lens. It contends that local and international NGOs in Cambodia play a crucial role in the negotiations of China's infrastructure project in the country. Although they adopt various strategies and pursue divergent interests, their efforts converge to mobilize networks and resources to make the project suspended.
+
+> **Liu, X.**, Ge, Y., Hu, W., Huang, Y., Ma, T. 2019. Spatial impacts of the geopolitics of non-state actors and the formation pathways. Progress in Geography(地理科学进展), 38(11): 1735-1746. [Link](http://www.progressingeography.com/CN/10.18306/dlkxjz.2019.11.009)
+
+This article examines the impacts and the pathways of non-state actors's geopolitical influences. After clarifying major categories of non-state actors, the article unpacks their geopolitical influences on security, institutions, and imaginations in international spaces and explores how they are able to achieve these influences. It is argued that non-state actors sometimes act as the challenger or extension of states or governments, but their power can also transend traditional national border and territory.
+
+> **Liu, X.**, Wang, R. Y., Ge, Y. 2018. Roles of international non-governmental organizations in global environmental politics: A critical geopolitical perspective. Human Geography(人文地理), 33(5): 123-132. [Link](http://rwdl.xisu.edu.cn/CN/abstract/abstract12063.shtml)
+
+This paper reviews the development and basic characteristics of critical geopolitical research and emphasizes that examining the role of INGOs could improve our understanding of the decision-making mechanism of international public affairs. It integrates key geopolitical concepts of scale and power to provide a useful framework for analyzing INGOs. Pointing out the limitation of state-centrism as well as the emerging influence of INGOs in addressing global environmental issues, this paper illustrates the main strategies of INGOs by unpacking their roles in three spatial scales (i.e., global, national and local) and three power dimensions (i.e., decisional power, discursive power and regulatory power).

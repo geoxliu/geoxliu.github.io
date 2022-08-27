@@ -4,7 +4,7 @@ title: Geoeconomics
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 5
-category: China and the World
+category: 0
 ---
 
 > Ma, T., Ge, Y., Huang, Y., Liu, X., Lin, R. Study on Geo-economic relations between China and Northeast Asia based on flow data. Acta Geographica Sinica(地理学报), 2020, 75(10):2076-2091.

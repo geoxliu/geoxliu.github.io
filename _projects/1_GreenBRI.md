@@ -10,7 +10,7 @@ category: Sustainability
 ## Background
 In 2013, the Chinese government launched the Belt and Road Initiative (BRI), a multitrillion-dollar plan to enhance connectivity across Eurasia and beyond. The plan quickly attracted both fanfare and criticism, especially regarding the potential impacts of infrastructure development on the environment. To bolster both the BRI’s image and environmental credentials, the Chinese government introduced the “Green Silk Road,” now more commonly known as the “Green Belt and Road” (Green BRI), with a series of regulations, mechanisms, and platforms. The plan aims to integrate low-carbon infrastructure and sustainable development into the BRI. Green BRI also serves as a key vehicle for promoting and disseminating related but distinct Chinese environmental norms such as “ecological civilization”, also known as “ecocivilization,” China’s environmental governance political ideology envisions a sustainable society in which ecology and natural resources are protected without compromising economic growth. 
 
-Exactly what “green” means, however, is subject to debate. My research has exmined the academic disucssions, state regulations, non-state mobilizations, and local implementation surrounding the sustainability of the BRI.
+Exactly what “green” means, however, is subject to debate. My research examines the academic disucssions, state regulations, non-state mobilizations, and local implementation surrounding the sustainability of the BRI.
 
 
 ## Academic discussions
@@ -27,10 +27,10 @@ Both Chinese and foreign scholars carry out research across the four themes belo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/BRIthemes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/BRIthemes.jpg" title="Main themes" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/BRIregions.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/BRIregions.jpg" title="Main regions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

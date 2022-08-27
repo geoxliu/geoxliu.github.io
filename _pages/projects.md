@@ -58,6 +58,8 @@ horizontal: false
 </div>
 
 
+***
+
 ### Research projects
 * 2020-now    Co-PI, “Ecogovernmentality, Ecocivilization, and China's Green Belt and Road Initiative” (funded by HKU seed fund for basic research)
 * 2018-2019  Participant, “The Geopolitics of International Rivers: A Case Study of Lancang-Mekong Transboundary Water Governance” (funded by national science foundation of China)

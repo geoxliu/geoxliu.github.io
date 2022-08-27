@@ -6,7 +6,7 @@ description: Teaching experience.
 nav: true
 ---
 
-* Co-supervision 3 Master's student at Yunnan Normal University
+* Co-supervising 3 Master's student at Yunnan Normal University
 
 ***
 
