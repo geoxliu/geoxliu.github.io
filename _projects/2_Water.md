@@ -13,11 +13,11 @@ Water is a necessity for human and nature, which, however, is highly unevenly di
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Trans_Basins.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Trans_Basins.jpg" title="image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Transboundary river basins of the world [Transboundary Freshwater Spatial Database](https://transboundarywaters.science.oregonstate.edu/content/data-and-datasets)
+    Transboundary river basins of the world (Source: Transboundary Freshwater Spatial Database)
 </div>
 
 Over 150 countries in the world share more than 310 international water basins, which provide freshwater for at least 3 billion people (McCracken and Wolf 2019). With the Asian Water Tower, China shares rivers with 18 neighboring countries. with cases of the Lancang-Mekong River and Dongjiang River, I examine the complex institutions, discourses, imagenaries, and power relations of international/inter-jurisdictional river governance through a set of concepts such as hydrosocial territories and scalar politics.
@@ -32,10 +32,10 @@ Taking the case of Lancang-Mekong Cooperation (LMC)), this paper demonstrates th
 > Wang, R. Y., Zhang, W., **Liu, X.**. 2022. The geopolitical analysis of international river governance: A conceptual framework of “hydrosocial territories”. Human Geography(人文地理),(02), 41-49+102. [Link](http://www.xml-data.org/RWDL/html/20220206.htm)
 
 This work reviews the theoretical discussions and controversies of international river governance and introduces the conceptual framework of“hydrosocial territories”. The paper summarizes that the framework reveals spatial deployment of power and explores the natural-society relationship from four previously underexamined analytical dimensions. 
-[1] Power exercises apply at multiple scales and involve interconnections and interdependence across scales.
-[2] The deployment of power exists in physical, institutional, and representational spaces that jointly shape rules, narratives, and meanings of water. 
-[3] The essence of water governance is defined by relationship networks that include and exclude different actors. 
-[4] Hydrosocial territories are fluid, constructed, and contested, encapsulating diverse forms of power exercises.
+* Power exercises apply at multiple scales and involve interconnections and interdependence across scales.
+* The deployment of power exists in physical, institutional, and representational spaces that jointly shape rules, narratives, and meanings of water. 
+* The essence of water governance is defined by relationship networks that include and exclude different actors. 
+* Hydrosocial territories are fluid, constructed, and contested, encapsulating diverse forms of power exercises.
 
 > **Liu, X.**, Souter, N. J., Wang, R. Y., & Vollmer, D. 2019. Aligning the Freshwater Health Index indicator system against the transboundary water governance framework of Southeast Asia’s Sesan, Srepok, and Sekong river basin. Water, 11(11), 2307. [Link](https://www.mdpi.com/2073-4441/11/11/2307)
 

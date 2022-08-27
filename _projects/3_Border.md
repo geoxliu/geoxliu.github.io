@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Border
-description: a project that redirects to another website
+description: Border control, border infrastructure, cross-border mobility
 img: assets/img/bordercontrol.jpg
 importance: 3
 category: China and the World
@@ -34,3 +34,6 @@ Governments set up quarantine infrastructure under the pretence of securing publ
 
 
 ## China's southwest border
+> incoming
+
+

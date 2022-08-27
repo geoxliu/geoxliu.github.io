@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Non-State Actors
-description: another without an image
+description: Non-state actors, NGOs in the interntional domain
 img: assets/img/NGO_Wordcloud.jpg
 importance: 4
 category: China and the World
 ---
 
 ## Background
+Although states remian the most important actor on the international stage, the emergence of non-state actors such as non-governmental organizations (NGOs), international organizations, and transnational corporations are drawing increasing attention, whose influences on global affairs are also getting prominent. It is time to go beyond the state-centric perspective and pay attention to the roles of these non-state actors.
 
+As China expands its international engagement, its overseas projects inevitably encounter non-state actors in host countries such as local communities and NGOs. Responses of these actors to Chinese projects and their interactions with Chinese actors may affect the projects' implementation. On the other hand, China's non-state actors are also playing a growing role in the country's participation in global issues such as infrastructure development, sustainability, and poverty alleviation.
 
 > **Liu, X.**, Bennett, M.M. Going out and going green: Chinese NGOs within Green BRI knowledge production
 
