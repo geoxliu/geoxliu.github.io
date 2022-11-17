@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Political geography, Geopolitics, Geoeconomics, Border, Infrastructure, Sustainability, Governance, Etc.
+subtitle: Geopolitics, Geoeconomics, Border, Infrastructure, Sustainability, Technology, Governance, Etc.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the Department of Geography, University of Hong Kong. My research focuses on the geopolitics and geoeconomics of China’s pursuit of influences on the Belt and Road Initiative partners. With cases near and beyond China’s border, I enquire about the power entanglements of state and non-state actors in shaping discourses, producing knowledge, and regulating the implementation of China’s international infrastructure projects and programs. I try to weave China’s domestic and extraterritorial issues to seek cross-scale explanations for the conflicts, dilemmas, and variations. My internship experiences in both governmental and non-profit agencies in China and Southeast Asia grant me the chance to observe their operation and to contact potential informants. I have been publishing in Chinese and English geography journals, such as Dialogues in Human Geography, Geoforum, Acta Geographica Sinica(地理学报), Economic Geography(经济地理), etc. 
+I am a PhD student at the Department of Geography, University of Hong Kong. My research focuses on the geopolitics and geoeconomics of China’s international pursuit， notably the Belt and Road Initiative. With cases near and beyond China’s border, I enquire about the power entanglements of state and non-state actors in shaping discourses, producing knowledge, and regulating the implementation of China’s international infrastructure projects and cooperation mechanisms. I try to weave China’s domestic and extraterritorial issues to seek cross-scale explanations for the conflicts, dilemmas, and variations. My internship experiences at both governmental and non-profit agencies in China and Southeast Asia grant me the chance to observe their operation and contact potential informants. I have been publishing in Chinese and English geography journals, such as Dialogues in Human Geography, Geoforum, Acta Geographica Sinica(地理学报), Economic Geography(经济地理), etc. 
 
 ***
 
@@ -29,6 +29,7 @@ I am a PhD student at the Department of Geography, University of Hong Kong. My r
 
 
 * **University of Washington**, US,    Exchange,   2022.01-2022.08
+* **Tsinghua University**, China,    Summer school of international relations research methods, 2020.08
 * **Sun Yat-sen University**, China,   Summer school of political geography,   2019.08
 * **Cambridge University**, UK,    Summer institute of international politics,   2017.07-2017.08
 * **Nanyang Technology University**, Singapore,   Summer program of innovation,   2013.07-2013.08

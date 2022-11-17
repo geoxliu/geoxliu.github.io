@@ -8,7 +8,7 @@ category: Sustainability
 ---
 
 ## Background
-Water is a necessity for human and nature, which, however, is highly unevenly distributed spatially and temporally across the globe, easily leading to human and nature crisis. Water governance is significant but owing to the fluidity of water transcending borders, geopolitical problems rise across countries sharing international rivers regarding cross-border water ownership, allocation, utilization, protection, compensation, etc. Meanwhile, with rapid industrial development and climate change escalation, the contradiction between water supply and demand is becoming more pronounced. Transboundary water or international rivers inevitably result in interstate negotiations and geopolitical confrontations surrounding issues such as water allocation and large-scale water infrastructure construction.
+Water is a necessity for human and nature, which, however, is highly unevenly distributed spatially and temporally in a manner that easily leads to conflicts and crisis. Due to the fluidity of water over international borders, geopolitical tensions arise between nations that share international rivers about cross-border water ownership, allocation, utilization, protection, compensation, etc. Moreover, as industrialization and climate change intensify, the disparity between water supply and demand becomes more pronounced. Transboundary water or international rivers inevitably result in interstate negotiations and geopolitical confrontations surrounding issues such as water allocation and large-scale water infrastructure construction.
 
 
 <div class="row">
@@ -20,7 +20,7 @@ Water is a necessity for human and nature, which, however, is highly unevenly di
     Transboundary river basins of the world (Source: Transboundary Freshwater Spatial Database)
 </div>
 
-Over 150 countries in the world share more than 310 international water basins, which provide freshwater for at least 3 billion people (McCracken and Wolf 2019). With the Asian Water Tower, China shares rivers with 18 neighboring countries. with cases of the Lancang-Mekong River and Dongjiang River, I examine the complex institutions, discourses, imagenaries, and power relations of international/inter-jurisdictional river governance through a set of concepts such as hydrosocial territories and scalar politics.
+Over 150 countries in the world share more than 310 international water basins, which provide freshwater for more than 3 billion people (McCracken and Wolf 2019). Occupying the Asian Water Tower, China shares rivers with 18 neighboring countries. Taking cases of the Lancang-Mekong River and Dongjiang River, I examine the complex institutions, discourses, imagenaries, and power relations of international/inter-jurisdictional river governance through a set of concepts including hydrosocial territories and scalar politics.
 
 
 # Hydrosocial territories of transboundary rivers
