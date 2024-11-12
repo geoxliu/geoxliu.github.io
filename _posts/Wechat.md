@@ -6,4 +6,7 @@ description:
 tags: post
 categories: sample-posts
 ---
-Follow my WeChat account "More Than Geography" for more informaiton
+
+Follow my WeChat account "More Than Geography" for more informaiton.
+
+![WeChat](assets/img/WeChat_MTG.jpg)
