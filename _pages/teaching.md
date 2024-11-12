@@ -6,10 +6,9 @@ description: Teaching experience.
 nav: true
 ---
 
-* Co-supervising 3 Master's student at Yunnan Normal University
 
 ***
-
+* Guest lecture "**Sustainble cities and infrastructure**"(PG) 2024 Spring, National University of Singapore
 * Guest lecture "**World Regional Studies**"(PG) 2022 Spring, Shandong Normal University
 * Guest lecture "**Global Change and Sustainable Development**"(UG) 2021 Autumn, HKU
 
