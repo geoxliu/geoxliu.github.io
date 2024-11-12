@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Follow my WeChat account: More Than Geography
+title:  Follow my WeChat account - More Than Geography
 date:   2024-03-15 16:40:16
 description: 
 tags: post
