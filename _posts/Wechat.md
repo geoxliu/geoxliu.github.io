@@ -9,4 +9,4 @@ categories: sample-posts
 
 Follow my WeChat account "More Than Geography" for more informaiton.
 
-![WeChat ID: MoreThanGeog](geoxliu.github.io/assets/img/WeChat_MTG.png)
+![WeChat ID: MoreThanGeog](img/WeChat_MTG.png)
