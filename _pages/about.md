@@ -26,7 +26,7 @@ The lab is recruiting PhD students and Research Assistants. Welcome to apply.
 
 ***
 
-![WeChat subscription account: MoreThanGeog](assets/img/WeChat_MTG.png)
+![WeChat subscription account: MoreThanGeog](img/WeChat_MTG.png)
 
 ***
 
